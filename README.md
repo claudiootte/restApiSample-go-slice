@@ -41,7 +41,7 @@ Acessando os livros já inseridos
 ![](images/2-gettingbooks.png)
 
 
-Adicionando livros
+Adicionando novos livros
 
 ![](images/3-addingbooks01.png)
 ![](images/3-addingbooks02.png)
