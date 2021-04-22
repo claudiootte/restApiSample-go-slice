@@ -49,19 +49,23 @@ Acessando os livros já inseridos
 Adicionando novos livros
 
 ![](images/3-addingbooks01.png)
+
 ![](images/3-addingbooks02.png)
+
 ![](images/3-addingbooks03check.png)
 
 
 Atualizando o livro desejado
 
 ![](images/4-updatebooks01.png)
+
 ![](images/4-updatebooks02check.png)
 
 
 Deletando o livro desejado
 
 ![](images/5-deletebook01.png)
+
 ![](images/5-deletebook02check.png)
 
 
