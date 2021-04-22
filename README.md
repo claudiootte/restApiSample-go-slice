@@ -31,6 +31,33 @@ Gorilla mux: go get -u github.com/gorilla/mux
 
 ## Na prática
 
+Iniciando a aplicação
+
+![](images/1-starting.png)
+
+
+Acessando os livros já inseridos
+
+![](images/2-gettingbooks.png)
+
+
+Adicionando livros
+
+![](images/3-addingbooks01.png)
+![](images/3-addingbooks02.png)
+![](images/3-addingbooks03check.png)
+
+
+Atualizando o livro desejado
+
+![](images/4-updatebooks01.png)
+![](images/4-updatebooks02check.png)
+
+
+Deletando o livro desejado
+
+![](images/5-deletebook01.png)
+![](images/5-deletebook02check.png)
 
 
 
