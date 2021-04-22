@@ -1,6 +1,11 @@
 # Rest API Sample Go/Slice
 ## API Restful que utiliza livros como exemplo
 
+<p align="center">
+  <img src="images/golang.png"/ alt="Golang">
+</p>
+
+
 A aplicação foi escrita totalmente em Go 🐹, visando utilizar o mínimo de dependências possíveis, tratar a maioria dos erros com os devidos cuidados e documentada com comentários de fácil entendimento
 
 Pacotes utilizados
